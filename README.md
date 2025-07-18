@@ -26,7 +26,7 @@ The program reads a text file, compresses it using **Run-Length Encoding (RLE)**
 - Custom compressed file format (`.rle`)
 
 ## 🧩 Sample Output
-
+![Image](https://github.com/user-attachments/assets/ce4a427c-fe55-481f-8b8a-660057e9c575)
 
 ## 🛠️ Technologies Used
 
